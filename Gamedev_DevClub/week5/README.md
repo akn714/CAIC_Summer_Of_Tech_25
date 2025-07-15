@@ -13,8 +13,7 @@
 - [Performance Optimization in Unity](https://youtu.be/kJ5I9md9NG4?si=H9zKq96iGsP9dtaB)
 - [Unity bug fixing](https://youtu.be/lTblDL_YILQ?si=UZufHWpB_rzILsre)
 - [Game Balancing Techniques](https://youtu.be/uo9qIDbJvT8?si=YKutgAlEdIk3QIsf)
-
--[LOD in Unity](https://youtu.be/ifNyVS2_6f8?si=IGiDWb-fzAGVrdCn)
+- [LOAD in Unity](https://youtu.be/ifNyVS2_6f8?si=IGiDWb-fzAGVrdCn)
 
 ### Step 2: Menus & Player Experience
 
@@ -53,7 +52,6 @@
 - [Creating a GitHub README](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 - [Game Presentation Tips](https://www.youtube.com/watch?v=t5MZhwGgXbk&ab_channel=tinyBuildGAMES)
 - [Post-Mortem Writing Guide](https://medium.com/@toxicaliengf/in-search-of-a-better-game-dev-postmortem-process-7b76caae1ff4)
-
 - [How to do a post-mortem?](https://www.reddit.com/r/gamedev/comments/1867lg9/how_to_do_a_postmortem/)
 
 ### Week 5 Checkpoint: By the end of Week 5, you should have:
