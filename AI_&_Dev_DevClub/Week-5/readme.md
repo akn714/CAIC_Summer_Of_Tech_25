@@ -196,7 +196,7 @@ CAIC Summer of Technology 2025 - 5 week ML+Dev track
 
 ## 🤝 Contributing
 Feel free to open issues or submit pull requests!
-```
+
 
 ---
 
