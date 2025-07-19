@@ -1,6 +1,6 @@
-# Problem Statement: Analyzing Light Pollution, its impact and finding ways to reduce it
+# Analyzing Light Pollution, its impact and finding ways to reduce it
 
-**Format:** Working in teams of 2 is recommended to develop research collaboration and communication skills, though solo submissions are also acceptable.
+**Format:** You can participate solo or in teams of max 2.
 
 ## Introduction
 
@@ -10,7 +10,7 @@ In this project, you will investigate light pollution by analyzing real-world da
 
 This project offers an excellent opportunity to apply and enhance your research papers analysis, data science, programming, and scientific communication skills. You will work with real-world datasets, employ powerful analytical tools, and contribute to a better understanding of this crucial environmental issue.
 
-To better understand the significance of this environmental hazard, explore this  [Light Pollution Map by National Geographic Map Maker](https://www.arcgis.com/apps/instant/atlas/index.html?appid=0cd1cdee853c413a84bfe4b9a6931f0d&webmap=b296947d717643e5805378a5c3f5e6eb), which illustrates its widespread effects on the world.
+To better understand the significance of this environmental hazard, explore this  [Light Pollution Map by National Geographic Map Maker](https://www.arcgis.com/apps/mapviewer/index.html?webmap=b296947d717643e5805378a5c3f5e6eb)(Reload if it isn't opening), which illustrates its widespread effects on the world.
 
 ## What You'll Do in This Project
 
@@ -52,6 +52,9 @@ A crucial component of this project is a thorough understanding of the subject m
     - [**Zotero**](https://www.zotero.org/): A free, easy-to-use tool to help you collect, organize, cite, and share research.
     - [**Mendeley**](https://www.mendeley.com/): Another popular free reference manager.
 - https://arxiv.org/
+
+---
+To Complete this Track of CSOT:
 
 ## 1. Research Objectives
 
@@ -187,7 +190,9 @@ Now that you have familiarized yourself with introductory concepts of light poll
 
 ## 5. Submission Requirements
 
-At the conclusion of the project, you will be required to submit a single compressed file (`.zip`) containing all of the following items:
+While working on your project, you are required to fork this GitHub repo and push your things to your fork in a `submission` folder in the `Astronomy_PAC` folder (A more detailed step by step guide is given in the WhatsApp group). 
+
+The following things are required to be present in the folder: 
 
 1. **Final Report (PDF):** The primary deliverable is your final, comprehensive report generated from LaTeX. This document should integrate the findings from all the project's research tasks.
     
@@ -224,5 +229,9 @@ At the conclusion of the project, you will be required to submit a single compre
 4. **Data Files:** Any raw or processed data files (e.g., `.csv`) used in your analysis.
 5. **Supplementary Files:** Any additional files created for Task 1.3, such as CAD drawings (`.dwg`, `.dxf`), high-resolution illustrations (`.png`, `.jpg`), or graphs.
 6. **README File:** A `README.md` text file explaining your submission's contents, each file's purpose, and instructions on how to run your analysis scripts.
+
+## Submission Link: 
+After following the above steps and forking the repo, you can submit the url of your fork in this form: https://forms.gle/KzT1BbcuZw4cAfDn9
+Deadline: To Be Announced
 
 ### **We are excited to see the insights you will uncover about light pollution. This project is a chance to make a real contribution to a field of growing importance. All the Best!**
